@@ -4,7 +4,7 @@ This repository contains the brand assets for NERZO. Below are the various logos
 
 ## Main Logo
 
-![Main Logo](https://i.ibb.co/cw4SMsB/Frame-188.png)
+![Main Logo]([(https://i.ibb.co/TrKdh5m/Frame-188-removebg-preview.png))
 
 This is the main logo for NERZO and should be used in most cases.
 
