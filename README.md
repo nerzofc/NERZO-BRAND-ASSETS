@@ -4,11 +4,11 @@ This repository contains the brand assets for NERZO. Below are the various logos
 
 ## Main Logo
 
-![Main Logo]([(https://i.ibb.co/TrKdh5m/Frame-188-removebg-preview.png))
+![Main Logo](https://i.ibb.co/TrKdh5m/Frame-188-removebg-preview.png)
 
 This is the main logo for NERZO and should be used in most cases.
 
-- **Color Scheme**: Pink and white geometric design on a dark circular background.
+- **Color Scheme**: Pink and white geometric design on a transparent background.
 - **Usage**: Primary representation of NERZO in most branding materials.
 - **Context**: Use this logo for official documents, website headers, and marketing materials.
 
