@@ -1,14 +1,19 @@
-# NERZO Brand Assets
+# Clone the repository
+git clone https://github.com/your-username/NERZO-BRAND-ASSETS.git
+cd NERZO-BRAND-ASSETS
+
+# Create the README.md file with the provided image links and descriptions
+echo "# NERZO Brand Assets
 
 This repository contains the brand assets for NERZO. Below are the various logos and their respective usage guidelines.
 
 ## Main Logo
 
-![Main Logo](https://i.ibb.co/TrKdh5m/Frame-188-removebg-preview.png)
+![Main Logo](https://i.ibb.co/py5m7fK/file-1.png)
 
 This is the main logo for NERZO and should be used in most cases.
 
-- **Color Scheme**: Pink and white geometric design on a transparent background.
+- **Color Scheme**: Pink and white geometric design on a dark circular background.
 - **Usage**: Primary representation of NERZO in most branding materials.
 - **Context**: Use this logo for official documents, website headers, and marketing materials.
 
@@ -28,7 +33,7 @@ This logo has been used in the past and can be used as an alternative to the mai
 
 This logo can be used occasionally or in specific contexts where the main or secondary logos are not suitable.
 
-- **Color Scheme**: Pink and white geometric design with text "NERZO" on a white background.
+- **Color Scheme**: Pink and white geometric design with text \"NERZO\" on a white background.
 - **Usage**: Special contexts where a horizontal layout or text inclusion is necessary.
 - **Context**: Use this logo for business cards, email signatures, and certain promotional materials.
 
@@ -43,3 +48,9 @@ Please ensure that the logos are used consistently and in accordance with these 
 ## License
 
 NERZO brand assets are copyrighted materials. Usage is restricted to authorized entities and individuals. Unauthorized use, reproduction, or alteration of these assets is strictly prohibited.
+" > README.md
+
+# Add, commit, and push the changes
+git add README.md
+git commit -m "Add README with brand assets information"
+git push origin main
